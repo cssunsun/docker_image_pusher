@@ -1,1 +1,1 @@
-pingcap/tiflash:v8.1.0
+k8s.gcr.io/kube-scheduler:v1.27.2
